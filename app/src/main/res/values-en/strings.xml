@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meds Control</string>
+    <string name="lista_titulo">Your Medicines</string>
+    <string name="titulo_cadastro">New Medicine</string>
+    <string name="hint_nome">Medicine Name</string>
+    <string name="hint_desc">Description (e.g., 50mg)</string>
+    <string name="hint_hora">Time (HH:mm)</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_salvar">Save Medicine</string>
+</resources>

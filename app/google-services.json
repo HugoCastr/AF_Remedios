@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995870298630",
+    "project_id": "medicamentos-a05e7",
+    "storage_bucket": "medicamentos-a05e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995870298630:android:691d8cae32e9e7ef2d6987",
+        "android_client_info": {
+          "package_name": "com.example.af_remedios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnEUlKKiq5vg1wsoPU1fLaUiCxv1pb3Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
